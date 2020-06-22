@@ -1,0 +1,84 @@
+@media (max-width: 992px) {
+  .section-head p {
+    width: 100%; } }
+
+/* ----------------------------------------------------------------
+     [ 01 Start Navbar ]
+-----------------------------------------------------------------*/
+@media (max-width: 992px) {
+  .navbar {
+    text-align: center;
+    background-color: #fff;
+    padding: 10.5px 15px;
+    max-height: 90vh; }
+    .navbar .toggler-custom:focus {
+      outline: none;
+      border: none; } }
+  @media (max-width: 992px) and (max-width: 992px) {
+    .navbar .toggler-custom span {
+      color: #000; } }
+@media (max-width: 992px) {
+    .navbar .navbar-nav {
+      padding: 5px 0; }
+      .navbar .navbar-nav .nav-link {
+        color: #000; } }
+
+/* ----------------------------------------------------------------
+     [ 02 Start Header ]
+-----------------------------------------------------------------*/
+@media (max-width: 768px) {
+  .header .content h1 {
+    font-size: 33.5px;
+    text-align: center; }
+  .header .content p {
+    font-size: 16px; }
+  .header .content a {
+    font-size: 14px; } }
+
+/* ----------------------------------------------------------------
+     [ 03 Start About ]
+-----------------------------------------------------------------*/
+@media (max-width: 992px) {
+  .About-me .About-right {
+    margin-top: 30px; } }
+
+/* ----------------------------------------------------------------
+     [ 04 Start Services ]
+-----------------------------------------------------------------*/
+@media (max-width: 768px) {
+  .My-services .mb-responsive {
+    margin-bottom: 30px; } }
+
+/* ----------------------------------------------------------------
+     [ 05 Start Portfolio ]
+-----------------------------------------------------------------*/
+@media (max-width: 460px) {
+  .My-portfolio ul li {
+    font-size: 12px;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px; } }
+@media (max-width: 992px) {
+  .My-portfolio .mb-responsive {
+    margin-bottom: 30px; } }
+
+/* ----------------------------------------------------------------
+     [ 05 Start Testimonials ]
+-----------------------------------------------------------------*/
+@media (max-width: 992px) {
+  .Testimonials .clients P {
+    width: 100%; } }
+
+/* ----------------------------------------------------------------
+     [ 06 Start Blog]
+-----------------------------------------------------------------*/
+@media (max-width: 992px) {
+  .Blog .mb-responsive {
+    margin-bottom: 30px; } }
+
+/* ----------------------------------------------------------------
+     [ 07 Start Blog]
+-----------------------------------------------------------------*/
+@media (max-width: 992px) {
+  .Contact-me .mb-responsive {
+    margin-bottom: 30px; } }

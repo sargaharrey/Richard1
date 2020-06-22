@@ -1,0 +1,70 @@
+.section-head h2::before {
+  background-color: #800080 !important;
+
+}
+.navbar .navbar-brand{
+  color: #800080 !important;
+
+}
+
+.navbar .nav-item .nav-link.active{
+color: #800080 !important
+}
+.header .content h1 .Me{
+    color: #800080 !important
+}
+
+.About-me h3{
+  color: #800080 !important
+}
+
+.About-me .About-right .skills .skill-item .skill-progress .progres{
+  background-color: #800080 !important;
+}
+
+.About-me .About-right .skills .skill-item .skill-progress .progres::before{
+  background-color: #800080 !important;
+
+}
+.About-me .About-right .skills .skill-item .skill-progress .progres::after{
+  border-top: 5px solid  #800080 !important;
+}
+
+.My-services .items .box-item::after{
+    border-top: 4px solid #800080 !important;
+}
+
+.My-services .items .box-item span {
+  color: #800080 !important;
+}
+
+.My-portfolio ul li.active {
+  background-color: #800080 !important;
+  color: #fff;
+}
+
+
+.Testimonials .clients {
+  color: #800080 !important;
+
+}
+.clients span{
+  color: #800080 !important;
+}
+
+.Testimonials .owl-dots .owl-dot{
+  background-color: #800080 !important;
+}
+
+.Blog .items .item-box .info a:nth-of-type(2):hover{
+color:  #800080 !important;
+}
+.Contact-me button{
+  background-color: #800080 !important
+}
+.Contact-me .content .info .item .icon span{
+  color: #800080 !important;
+}
+.Contact-me .content .info .item .text-info{
+  border-left: 2px solid #800080 !important;
+}
